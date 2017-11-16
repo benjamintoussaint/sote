@@ -15,19 +15,19 @@
 
 
 ```bash
-curl -sS https://raw.githubusercontent.com/krkn/sote/master/bin/sote | bash
+curl -sS https://raw.githubusercontent.com/patoobe/sote/master/bin/sote | bash
 ```
 
 ### Install with `wget`
 
 ```bash
-wget -q -O - https://raw.githubusercontent.com/krkn/sote/master/bin/sote | bash
+wget -q -O - https://raw.githubusercontent.com/patoobe/sote/master/bin/sote | bash
 ```
 
 ### Manually from GIT repo
 
 ```bash
-git clone https://github.com/krkn/sote ~/.sote && ~/.sote/bin/sote
+git clone https://github.com/patoobe/sote ~/.sote && ~/.sote/bin/sote
 ```
 
 If you want change the "Sote Store" location (~/.sote-store), edit the Sote script and change `SOTE_STORE` variable.
