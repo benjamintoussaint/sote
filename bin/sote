@@ -8,7 +8,7 @@
 ###################################
 
 SOTE_URL="https://raw.githubusercontent.com/patoobe/sote/master/bin/sote"
-SOTE_PATH="~/.scripts/patoo/sote/bin"
+SOTE_PATH="$HOME/.scripts/patoo/sote/bin"
 SOTE_SCRIPT="$SOTE_PATH/sote"
 SOTE_STORE="$HOME/.sote-store"
 
